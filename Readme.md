@@ -1,7 +1,4 @@
-[![Build Status](https://drone.io/github.com/davidrjenni/Guru/status.png)](https://drone.io/github.com/davidrjenni/Guru/latest)
-[![GoDoc](https://godoc.org/github.com/davidrjenni/Guru?status.svg)](https://godoc.org/github.com/davidrjenni/Guru)
-
-# Guru
+# Guru [![Build Status](https://travis-ci.org/davidrjenni/Guru.svg?branch=master)](https://travis-ci.org/davidrjenni/Guru) [![GoDoc](https://godoc.org/github.com/davidrjenni/Guru?status.svg)](https://godoc.org/github.com/davidrjenni/Guru)
 
 Guru - oracle for Acme.
 
